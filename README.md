@@ -108,4 +108,4 @@ ev-adoption-india/
 Built as part of a data analytics portfolio focused on the Indian automotive and EV sector. This project demonstrates skills in data wrangling, exploratory data analysis, and business insight generation from government datasets.
 
 **Author:** Subrat Panda  
-**LinkedIn:** [linkedin.com/in/subrat-panda-aa7611282](https://linkedin.com/in/subrat-panda-aa7611282)
+**LinkedIn:** https://www.linkedin.com/in/subrat-panda-234315410/
